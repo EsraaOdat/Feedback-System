@@ -1,0 +1,10 @@
+Q1;Overall, how satisfied are you with this course?
+Q2;How would you rate the course material and resources provided for the C++ course?
+Q3;How effective was the instructor in explaining the concepts of C++?
+Q4;How well did the course meet your learning objectives for C++?
+Q5;How would you rate the hands-on exercises and programming assignments in the C++ course?
+Q6;How helpful were the provided examples in understanding C++ concepts?
+Q7;How effective were the quizzes and assessments in evaluating your knowledge of C++?
+Q8;How would you rate the pace of the C++ course?
+Q9;How likely are you to recommend this C++ course to others?
+Q10;Do you have any additional comments or suggestions for improving the C++ course?

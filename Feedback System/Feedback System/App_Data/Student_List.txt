@@ -1,0 +1,21 @@
+432432;Yousef Ahmed;qusai42233@gmail.com;c#,c++,c,javascript,database,datamining;
+2132100;Ahmed Ahmed;qusai033@gmail.com;c#,c++,c,javascript;
+243;Ahmed Yacoub;ahmedyacoub718@gmail.com;c++,javascript,database,datamining;
+0000000033;Ahmed Yacoub;ahmedyacoub718@gmail.com;c#,c++,c,datamining2;
+11223344;Mohammed Hassan;mohammed.hassan@email.com;c#,javascript,database;
+55443322;Fatima Ali;fatima.ali@email.com;c++,c,javascript,datamining;
+99887766;Lina Ahmed;lina.ahmed@email.com;c#,c++,javascript,php;
+77665544;Omar Khalid;omar.khalid@email.com;c++,database,datamining,php;
+12345678;Sara Abdullah;sara.abdullah@email.com;c#,c++,javascript,php;
+98765432;Nadia Saleh;nadia.saleh@email.com;c++,c,javascript,database,php;
+56789012;Ahmad Samir;ahmad.samir@email.com;c#,c++,database,datamining,php;
+34567890;Hala Mansour;hala.mansour@email.com;c++,javascript,datamining2,php;
+11112222;Khaled Hussein;khaled.hussein@email.com;c#,c++,javascript,php;
+24681357;Amira Farid;amira.farid@email.com;c++,database,datamining,php;
+95175368;Ali Hassan;ali.hassan@email.com;c#,c++,javascript,php;
+5555558;qusssaaaiii;qusai@gmail.com;c#, c, database
+5555587;qusssaa9aiii;qusai@gmail.com;php2
+
+123123;Esraa Odat ;esraa@email.com;c#,c++,javascript,php,c;
+159753;esraa odat;esraa@gmail.com;c#, javascript, datamining
+159754;ahmed yacoub;ahmed@gmail.com;c#, c, database, datamining
